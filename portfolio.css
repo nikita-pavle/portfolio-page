@@ -35,7 +35,7 @@ body{
     background-color: rgba(250,214,165,0.7) ;
     width:55%;
     height:74%;
-    margin-top: 180px;
+    margin-top: 150px;
     margin-left:25%;
     position: static;
     display:inline-block;
@@ -68,8 +68,8 @@ body{
     color:#954535 ;
   }
   .photo{
-    height:160px;
-    width:140px;
+    height:170px;
+    width:160px;
     margin-top:-35px;
     border-radius: 4px;
     border-color: brown;
